@@ -45,7 +45,7 @@ include('functions.php');
             <div class="container-fluid">
                 <div class="header-mobile-inner">
                     <a class="logo" href="index.html">
-                        <img src="images/icon/plogo.png" alt="Finanse Manager" />
+                        <img src="images/icon/logo.jpg" alt="Finanse Manager" />
                     </a>
                     <button class="hamburger hamburger--slider" type="button">
                         <span class="hamburger-box">
