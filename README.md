@@ -5,6 +5,8 @@ In this project we have provided user profile which can be given to multile user
 The user's can
 
 This is the  login page for admin and user .
+For ADMIN LOGIN username is-admin and password is-admin
+for USER LOGIN username is Ashoka-Latur and password is- 123
 ![Screenshot (3)](https://github.com/GaneshShinde01/My-Hotel/assets/138990327/b1e793d5-7d49-42e0-a5a7-09cdf1856363)
 
 
